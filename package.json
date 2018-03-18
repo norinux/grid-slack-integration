@@ -1,0 +1,19 @@
+{
+  "name": "slack-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/norinux/grid-slack-integration.git"
+  },
+  "author": "norinux",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/norinux/grid-slack-integration/issues"
+  },
+  "homepage": "https://github.com/norinux/grid-slack-integration#readme"
+}
